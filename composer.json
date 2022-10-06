@@ -1,0 +1,16 @@
+{
+  "name": "bcitwebservices/gravityformschainedselect",
+  "description": "Gravity Forms Chained Select",
+  "keywords": ["wordpress", "plugin"],
+  "homepage": "https://github.com/bcitwebservices/gravityformschainedselect",
+  "authors": [
+    {
+      "name": "gravityformschainedselect",
+      "homepage": "https://www.gravityforms.com/add-ons/chained-selects/"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=7.0"
+  }
+}
